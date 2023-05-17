@@ -7,3 +7,5 @@ npm install .
 node index.js
 ```
 
+# Demo
+It's an old project and I can't do a demo, because now Facebook doesn't allow invitations to users who have liked a post anymore. 🥲

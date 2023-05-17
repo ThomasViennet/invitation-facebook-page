@@ -1,2 +1,9 @@
 # invitation-facebook-page
-Invite people who liked a Facebook post to like the page
+Script using puppeteer to automate the sending of invitations to like a Facebook page to people who have liked a post.
+
+# How to use
+```
+npm install .
+node index.js
+```
+
